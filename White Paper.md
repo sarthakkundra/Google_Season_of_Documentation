@@ -307,3 +307,111 @@ As indicated above, applications are rarely developed from scratch. Almost all s
 Governments are aware of the advantages of open source and have identified the lack of conducive regulation as priority to facilitate adoption. Many governments have now developed policies regulating the use of open source software. In December 2000, the European Commission defined a strategy concerning the internal use of open source software. Since then a significant increase in open-source policies has been observed globally. 
 
 Policies not only encourage the use of open source software, they also guarantee equal treatment in procurement. This means that open source solutions and proprietary solutions will be assessed on an equal basis, being both evaluated on the basis of total cost of ownership. Total cost of ownership covers a wide range of costs including installation, data migration, customization, operational costs, software maintenance, user licenses, training, user & admin support, downtime, upgrades, security and retirement costs. The shift to total cost of ownership is now overtaken in some countries by the awareness that the old way of acquiring software has to change from simply 'acquiring a product' to 'investing in innovation'.
+
+
+### How to start using moja global software?
+Anybody can download and use moja global software. Some expertise is however required to compile the code, collect the necessary data inputs, to select and calibrate the models, and finally run the software. Depending on the capacity of the user entity, several use models are possible:
+
+Self Installation: 
+Users with advanced IT and science capacity can probably manage to download, compile and run the software without assistance. But even for experts it is most likely more efficient to work with a service provider to select the most appropriate modules, install the software, develop the necessary data inputs and calibrate the models.
+
+![Self Installation](assets/self_installation.png)
+
+Assisted installation:
+Most users prefer to use a service provider (company, international organisation or NGO) to install the moja global software and to guide the collection of the required data inputs. The most effective approach is an iterative installation, i.e. the software is first installed with basic capabilities using open data and through six monthly improvement cycles the system is upgraded to the aspired quality. The iterative approach allows for building capacity and governance systems in parallel with the moja global MRV system. Over time the user’s capacity to operate and maintain the system increases and the role of the service provider is reduced or phased out.
+
+![Assisted Installation](assets/assisted_installation.png)
+
+Donor sponsored installation:
+Various types of international assistance are currently available to assist readiness of countries willing to reduce their emissions from the land sector. 
+Donors can assist those countries with the installation of the moja global software by hiring a service provider to assist with the installation of the MRV system as well as the collection of data, selection of models, etc.
+As with the assisted installation above, the capacity of the host country will increase over time until the support from the service provider is no longer needed.  
+
+![Donor sponsored installation](assets/donor_installation.png)
+
+MRV as a Service:
+Some users do not want to develop their own capacity to run the moja global MRV software but would still like to use the system to calculate the emissions and sinks from the land sector. These users can hire a service provider that will run the system, collect the data and select the most appropriate models. The service provider will deliver the results of the emissions estimation. 
+
+![MRV as a service](assets/mrv_service.png)
+
+## Contributing to open source software
+moja global is offering to anybody the use of its tools because in the end this will translate into better software: Users of the software learn what value the software generates. To increase the value created, users are interested in improving the tools. The more users, the more improvements. This collaboration leads to fast improving, innovative, reliable software for all users. There are many ways to contribute to open source software in addition to coding. Contributing to an open source project is win-win for contributors and the project, as explained below.  The task of the open source project is to make contributing as easy as possible and create an active ecosystem. This Chapter briefly explains how it can be done. Most governments do not have policies regulating contributions to open source.  moja global is currently managing contributions on an ad-hoc basis but needs to develop contribution guidelines to facilitate contributions.
+
+
+### What does “contribute to an open source software” mean?
+While contributing to open source software logically sounds like writing code, there are a wide range of contributions an organisation or individual can make to an open source project. Often too few contributors come forward to work on non-coding tasks. 
+
+In addition to coding the most common tasks include providing user feedback, reporting bugs, suggesting additional functionality, documentation of the code, providing introductions to the software to new contributors, support users, collect frequently asked questions, work on the decision making procedures and operating manuals, update the website, write minutes of meetings, write newsletters, build a mailing list, etc. 
+
+Survey results indicate that 65% of the respondents contribute to open source software (while 98% use open source software). Most of these respondents are companies. They indicate that they pay their employees to work on open source projects at least part time. About 1 in 3 respondents had staff dedicated full time to work on open source projects. 
+
+### Why contribute to an open source software?
+Open source is outpacing proprietary software because collaboration stimulates and speeds-up innovation. The basic principle of open source is that all improvements are shared with the community of users. Participation and contribution is essential for the long term survival of any open source tool. So while everybody is free to use the open source software, returning the favour by investing in the open source community spurs innovation and delivers exponential value. 
+
+Contributing to open source is not only a moral obligation toward the software community, it actually delivers benefits to the contributors too. Those contributing to open source software indicate that they do it primarily out of self interest. The advantages include:  
+
+Fixing bugs:
+A particular bug might limit the functionality of the software for the user concerned. The fastest way to repair the bug is by correcting the code yourself; 
+
+Adding functionality:
+Similarly, it is faster to add functionality that you need yourself. Moreover, if you do it yourself, you can be certain that the new functionality is exactly what you need;
+
+Reducing development cost:
+Developing capacity to improve the open source code inside the company or organisation, will reduce the cost of improving, maintaining and even operating the system;
+
+Improve existing software skills in general:
+The exposure to the code developed by others is a perfect learning environment to improve skills that can then be applied to other areas and tools used in the organisation; 
+
+Find mentors and teach others:
+Working with others on a shared project means you will have to explain how you do things as well as ask other people for help. The acts of learning and teaching are not only fulfilling in themselves but are the perfect way to deepen knowledge and skills; 
+
+Grow a reputation:
+By being active in an open source software, the organisation, company or individual who makes contributions gets noticed and can build a reputation. Working on open source software works like a public demonstration of one's ability.
+
+
+### How to contribute to open source software?
+Anybody can contribute to an open source project. Each project has its own procedures to manage collaboration but many projects follow similar steps to make a contribution: 
+
+List with things to do:
+Most software projects keep lists of items that need doing. These tasks can range from fixing bugs, to writing documentation, to coding new features.  
+
+Opening an issue:
+Opening an issue is like starting a conversation or discussion. Anybody can open an issue to report an error, discuss a high-level topic or idea, or to propose a new feature or other project idea. Depending on the outcome of the discussion, the bug will be added to the list, the feature will be put on the to-do list and a decision will be made on the high-level topic.
+
+
+Select a contribution:
+Making a contribution (code or other) starts by selecting an item from the to-do list and starts working. It is recommended to work on contributions that are already asked for (except obvious trivial fixes). It is also recommended to inform the community about the issue one starts to work on to avoid duplication. 
+
+Fork the repository:
+Forking the repository means making a copy of the existing code, documentation, etc. to one’s own storage place online. Websites like Github have made this process very easy and even allows for the fork to be updated with all the changes that are made by others to the original repository. After forking the project, one can start editing the forked version without making the changes in the original repository.  
+
+Edit and Commit:
+Once the edits and improvements are finished, one can commit them, i.e. save the changes one wants to make to the project. Then to the extent possible, the changes are tested. 
+
+Opening a pull request:
+The changes can be offered back to the original project by opening a pull request. Sometimes unfinished work is already presented in a pull request to allow the community to review the work and make suggestions. When more people get involved quality will quickly improve. 
+
+Review of contributions:
+Depending on the project, there are review procedures for the proposed contribution. Various types of tests are run. Based on the published decision making process, the contribution is rejected outright, is rejected requesting for some modifications or is accepted into the original project. As projects grow, more layers of reviewers are introduced, each layer with more experience so many eyes will go over the code before it is accepted. In the figure below is a typical review hierarchy for contributions and bug fixes.
+
+![Generic open source project organizational hierarchy](assets/OSS_hierarchy.png)
+
+
+### Importance of an open source ecosystem
+The ecosystem of an open source project includes all the users, contributors, businesses, service providers, resellers, reviewers, etc that interact with the software as well as with each other. 
+
+The ecosystem is essential for the success and longevity of an open source project. Various experienced open source project managers focus their efforts entirely on serving their ecosystem. If the people and organisations in the ecosystem have a positive experience, they will invest back into the projects and create the virtuous cycle of more users creating more contributors creating more users etc. This virtuous cycle is necessary for fast innovation. 
+
+Involvement in an open source project tends to evolve from user to contributor to manager (e.g. maintainer or board member). Projects need to attract users as they are likely to become the future contributors and managers. Open source projects have to make this transition from user to owner as smooth as possible. Several services to users have proven to be essential to grow a lasting ecosystem: Good documentation, clear to-do lists and possible contributions, responsiveness to new users and contributors, and a clear place where users and contributors can meet each other on-line. The latter is particularly important to foster personal relationships that will allow for the sharing of soft knowledge. 
+
+
+### Contribution Policies in various countries
+A contribution policy specifies how employees can contribute to open source projects. A clear policy will reduce confusion among employees and help them contribute to open source projects in the company’s best interest, whether as part of their jobs or in their free time.
+
+Contribution policies can cover all contributions or they can be limited by excluding items of strategic or security importance. Often the policies leave the responsibility with the employees rather than developing approval processes. Ex-post review processes are common.
+
+Half of the mainly commercial entities interviewed by BlackDuck indicate that they have no formal rules or no enforcement related to open source contributions. Also governments are still working on regulations that allow and support their staff to contribute to open source software. 
+
+
+### How to contribute to moja global?
+moja global is still developing its contribution and review procedures. At this moment the group of contributors is still relatively small and collaboration functions on an informal basis. The repositories containing the code are semi-public, i.e. anybody can register to access the code but only registered contributors have access.
