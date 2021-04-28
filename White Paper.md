@@ -415,3 +415,50 @@ Half of the mainly commercial entities interviewed by BlackDuck indicate that th
 
 ### How to contribute to moja global?
 moja global is still developing its contribution and review procedures. At this moment the group of contributors is still relatively small and collaboration functions on an informal basis. The repositories containing the code are semi-public, i.e. anybody can register to access the code but only registered contributors have access.
+
+
+## The community manages its open source software
+moja global is governed by open structures that have developed through lessons learned from other open source projects.  It is only fair that users (who are also the contributors to the open source project) have the power to decide the strategic direction of moja global. moja global has adopted the hybrid governance structure that is most commonly used by open source projects under the Linux Foundation. The structure is explained in this Chapter. The non-profit Linux Foundation provides the legal and administrative umbrella for moja global. 
+
+
+### Open governance to manage open source software
+Open governance in this section refers to the open manner in which open source projects are best managed. It does NOT refer to the political philosophy which advocates to apply open source principles to public decision making.  
+
+Open governance of open source projects are a logical progression of the open source drive to leverage collaboration. As explained above, open source projects need to be managed by teams dividing the tasks and responsibilities. The teams have to develop procedures that are efficient and serve the ecosystem. The ecosystem does not accept hierarchy, it is spread across numerous locations and time zones, and all contributors come with their own preferences and priorities. Important lessons learned are that communities will be discouraged if they do not get a fair influence over the project that they are building. Hence any governance system needs to allow contributors to participate in decision making. There are various models of open governance that have emerged from experience. Below a few models are briefly discussed.
+
+Voting systems:
+Some projects (e.g. Apache Foundation projects) use voting by all active contributors as the basis for decision making. There might be different voting systems for different decisions. For example, procedural issues can be decided by majority voting but code modifications might require a minimum number of votes and no negative votes (i.e. veto). Voting systems need active engagement of the whole community for most of the decisions. This can sometimes delay decisions or it can be difficult to foster consensus on important issues like a shared vision.  
+
+Influence based on contribution:
+Other governance models give influence to the contributors that do most of the work and by the specific type of contribution they are making. So a decision about documentation is made by the contributors who contribute the most to the work. Decisions that involve all contributors are made using concurrence (e.g. Sociocratic methods) or consensus. These approaches include as many ideas and proposals from the ecosystem as possible. Voting is a last resort solution. 
+
+Hybrid system:
+The experience of the Linux Foundation has resulted in a governance model that uses both the above models albeit for different types of decisions. Technical decisions are made through a system based on concurrence by those who contribute most but open to all to participate. Contributors working on a particular issue agree on solutions and communicate their decision to the rest of the contributors in regular meetings of the Technical Steering Committee (TSC). The TSC ensures that all technical decisions are done in a transparent way and visible to the community. This encourages technical contributors to offer solutions and establishes a fair, level playing field that all ideas, good and bad may be heard and decided upon by a group of peers. Voting is used to decide on issues that involve money by those who are most concerned, i.e. the people or organisations that have made a financial contribution (Board). Most financial contributions are annual and hence those who contribute are often called members of the organisation. The Board dealing with financial decisions typically has no say in technical issues. The TSC and the Board have no hierarchical relationship. This allows for the two different governance systems to operate in parallel.
+
+
+### Why use open governance?
+As explained above, open governance is a logical extension of open source software, and is essential for the success of open source software. Building a community can only succeed if contributors feel ownership over the project they contribute to. The basic concept is that everybody can contribute to the project but only those investing can decide on how the resources are spent. So any idea is a viable one and will be reviewed. That does not mean that every idea is a good one. It only means that projects get better if every idea is carefully considered on its merits. 
+
+
+### The role of The Linux Foundation
+As explained above, The Linux Foundation fosters environments for open source collaboration and creating sustainable ecosystems. One key lesson learned is that projects should be provided with a governance framework that allows the ecosystem to focus on the substance of the project and effective decision making.
+
+The Linux Foundation provides an umbrella for open source projects including moja global: a US non-profit legal entity and various affiliates for project assets, the legal non-profit incorporation that can receive and spend funds, the intellectual resources informing every aspect of open source development, support for bookkeeping, human resources, infrastructure, and events organisation; and access to other services provided by The Linux Foundation ecosystem to all its members. A full overview of [The Linux Foundation services is available on the website](https://www.linuxfoundation.org/projects/services/).
+
+
+### How does moja global open governance work?
+moja global is a project under the Linux Foundation that applies an open governance system based on a Technical Steering Committee and a Strategy Board. The overall governance structure was established through extensive consultation of potential members including government, international organisations, NGOs and private companies. The result is captured in the moja global Charter (Annex 3). 
+
+![moja global open governance work](assets/governance_work.png)
+
+The Technical Steering Committee (TSC):
+Anybody can make a contribution to moja global software. The TSC facilitates and coordinates technical and scientific contributions. The tasks include agreeing to work flows and ensuring that different work streams elect their representatives to the TSC. The TSC will also ensure that moja global tools meet international reporting requirements and are compliant with established guidelines. Everybody can participate in the meetings of the TSC as observers. However, to make decisions more efficient and balanced, only the elected representatives can vote.
+
+The Strategy Board:
+The strategy board consists of representatives of users and funders of the software and agrees on a strategy and budget for moja global. It meets four times every year to supervise the implementation of its decisions. The meetings are closed by the minutes and decisions are public. 
+
+Management Board:
+The Management board consists of three directors who are responsible for the coordination and implementation of the directives and budget approved by the Strategy Board. The three positions are appointed by the Strategy Board. One director will be replaced every year.
+
+The Linux Foundation:
+The Linux foundation is the legal umbrella for moja global and provides various services to the project. It also is a valuable intellectual resource for moja global. The Linux Foundation is a member based organisation, just like its projects (e.g. moja global). Members support The Linux Foundation financially because they appreciate the value it creates and are thus happy to share the costs. Some members of moja global do not need to become members of the Linux Foundation. Normally, members of a Project also become members of the overarching Linux Foundation to ensure that members abide by the Charter of the Linux Foundation. This can be complicated for government officials and members from international organisations. Hence for moja global, this requirement has been lifted. Of course anybody is welcome to become a member if they want to.
