@@ -170,3 +170,140 @@ While the term "open source" originated from software development, it has become
 Open source is now the norm in software development measured by the increased number of open source projects and the increase of software built on top of open source software. For the first indicator, the total amount of source code as well as the total number of open source projects is growing at an exponential rate. 
 
 ![total-growth-figure-1](assets/total-growth-figure-1.jpeg)
+
+Open Source is also the foundation for nearly all software. [Audits prove that 98% of all software](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.roguewave.com%2Fgetmedia%2F2282b1ca-50a7-472f-a881-43fef139f56e%2Froguewave-open-source-support-report2017-vf4-digital.pdf) is built on some open source components. Moreover, these audits also show that in about 82% of the cases copyleft licenses are used requiring the new product to be open source too. This is driving the spread of open source and as a result [65% of the companies interviewed by BlackDuck](https://www.blackducksoftware.com/2016-future-of-open-source) indicate that their use of open source software has increased. 
+
+A more recent trend is that governments are adopting open source software. Below an example is provided for the EU institutions. The adoption of open source licences is most advanced for software developed by the EU. Open source software has also been adopted in data centers as the industry standard. Desktop software and social tools are still controlled by proprietary software. As explained below, governments are adopting open source policies to encourage the full adoption and benefits of open source software. Open data has taken off even more rapidly and combined with open source software, they are likely to transform government.
+
+![Adoption of OSS](assets/adoption_OSS.png)
+
+Linux is the world’s largest open source software project. The Linux kernel is the core component of the Linux operating system and is charged with managing the hardware, running user programs, and maintaining the security and integrity of the whole system. Linux has become the world’s most dominant operating system, with massive adoption in almost every sector: 95%+ of the top 1M web domains; 80%+ of smartphones run Android (based on the Linux kernel); 98%+ of the top 500 fastest supercomputers in the world; most of the global markets, including NYSE, NASDAQ, London Exchange, Tokyo Stock Exchange; etc.
+
+
+Many open source softwares have household names: WordPress is the world’s most popular blogging platform, used by a staggering 202 million websites. Magento  is the world’s fastest growing e-commerce platform used by 30,000 merchants including Samsung, Nespresso and The North Face. Firefox currently accounts for 24% of the recorded usage share of web browsers, and this figure is on the rise. Open source has penetrated really every field from accounting to artificial intelligence. 
+
+### How does open source work?
+In parallel with open source software, open source collaboration practices have rapidly evolved from hands off code dumps, sometimes described as the couch-by-the-roadside model, to sophisticated, and well managed structures such as the Linux Foundation model. 
+
+Couch by the roadside:
+Some developers publish their code on the internet and just hope that somebody will pick it up and find it useful. This is often done with code that the owner no longer uses much like an old couch one no longer needs and put by the roadside for anyone to take. Someone will find the code, might improve it and put it by the roadside again. As a result there will be various versions of the software, each developing in a different direction. The coders are not really exchanging ideas, let alone collaborating on the implementation of these ideas.
+
+Actively managed code:
+To improve collaboration, the coder who wrote the first version, can actively manage the code: This involves publishing the source code and inviting others to provide feedback. The feedback can include identification of bugs, proposing solutions for bugs, or suggesting new features and functionality. The owner will receive and publish the bugs, accept or reject the solutions, and build additional features. This level of collaboration requires a system to communicate with the owner, systems to track bugs, lists of requested features, standard testing procedures to ensure the software still works after changes have been made, good documentation for users to understand the software and well written software so it is easy to understand. Platforms like Github have emerged to provide these services. This approach has some drawbacks.  A project will quickly become dependent on the manager of the project, this puts an enormous burden on the central person and it puts the sustainability of the project at risk.
+
+Collaborative open source development:
+To reduce the dependency on one person, coders started to organize in teams, dividing the tasks and responsibilities. Going from one manager to a team is a challenge for two reasons: the team needs a shared infrastructure (hosting, build servers, issue trackers, etc.) and it needs procedures (accepting bug reports, patches, features, releases, etc.). Shared infrastructure is available and therefore only needs systems to share the infrastructure costs. More challenging are procedures for a team without hierarchy, spread across numerous locations and time zones, with different priorities and with a varying number of working hours to invest. Over time, open source teams developed structures and systems that can deal with these challenges. The management structures support the open organisation by being user focused, democratic and meritocratic. 
+
+Building a Community:
+The success of open source software can be measured by the strength of its community: i.e. people who invest their time and intellect to make contributions: these people can report bugs, develop code, review and test code, write documentation, etc. Once a community builds around a project, a virtuous cycle keeps increasing the benefits. Developers are encouraged by sustainable open source ecosystems, which results in better quality software. This in turn attracts users who create value with the software and are willing to free up resources to make contributions to the software. As these communities grow, evolve and enjoy success, financial and in-kind resources are funneled back into the further development of the projects for the benefit of all. To build a strong community, open source software communities try to make it easy for contributors to find out what needs doing, to obtain good documentation, to understand processes, and have a voice in the management of the software. Most contributors work on the issues they are passionate about or would like to see solved. Unfortunately, some unpopular tasks (e.g. documentation) sometimes fall behind. This was the next challenge to resolve.
+
+From volunteers to paid contributors:
+When companies wanted to use open source software in their products, they had a stake in its quality and decided to join the communities around open source software. The companies pay their developers to work on the open source software. Rather than competing, companies collaborate on software development. As a result, the quality and innovation of open source software increases. For example, 13,594 developers from at least 1,340 companies have contributed to the Linux kernel since 2005. The Linux kernel community merged changes at an average rate of 7.8 patches per hour over the past 15 months. So a new major kernel release occurs every 9 to 10 weeks. Business models adapted, rather than selling software companies provide service and support related to the software but the software is open source. The company Red Hat took the open-source Linux operating system and made a business out of customizing it and supporting it. Red Hat’s revenue was about USD 6 million in 1998, now 20 years later its revenue has jumped to more than USD 2 billion. Red Hat has an enormous commercial interest to invest in open source Linux and its community. 
+
+Collaboration under an umbrella:
+Shared infrastructure and a community requires a system to share cost, joint accounting and a legal entity to receive funds. Initially open source projects established themselves as individual non-profit organisations. But soon it became clear that collaborating on a joint legal umbrella made collaboration easier and more efficient. As with open source software, umbrella organisations allowed projects to learn from each other and innovate rapidly. Various umbrella organizations exist like The Linux Foundation, Eclipse Foundation, and Apache Software Foundation. Each has its own flavour and focus. 
+
+
+### How does moja global work?
+moja global provides a home for credible software that contributes to sustainable land management. The FLINT is one of the software tools. moja global welcomes other open-source tools that contribute to sustainable land management. 
+
+
+moja global focuses on making it possible for contributors to collaborate by providing the technical and governance infrastructure to collaborate on tools. The core activities of moja global are legally defined in its charter. Simplified they are:
+- Facilitate the continuous development of tools;
+- Foster an ecosystem;
+- Ensure operational resources are available (financial and in-kind support);
+- Pursue independent certification systems for software or technical skills;  
+- Host the infrastructure for moja global software; 
+- Provide neutral home for collaboration on tools (infrastructure, strategy, meetings, events and discussions);
+- Maintain and operate open governance of moja global.
+
+moja global is an open source project under The Linux Foundation umbrella. The Linux Foundation provides the legal entity, human resource management, accounting, and infrastructure (More below).
+
+![moja global working](/assets/working.png)
+
+moja global is facilitating the collaboration on the software between various users and contributors. Some users might download and install the software themselves as they have the expertise to do so. Other users might prefer to use the services of a company or organisation that can install and customise the software, support the data management systems and provide advice on the governance of the overall system. Finally, there might be entities that use the software to verify the results reported by users. They will independently obtain their version of the software and run it using the data provided by the user. Various other types of interactions are possible.  
+
+### How does The Linux Foundation work?
+The Linux Foundation, the umbrella organisation of moja global, is dedicated to building sustainable ecosystems around open source projects. The Linux Foundation has specialised in providing the effective processes of coordination for open-source projects. 
+
+The Linux Foundation has launched more than 100 collaborative projects. Each of these projects has adopted an open governance structure customized to the needs of each community but based upon core principles of open source. The feedback and experience of these projects has informed improvements to the open governance system. In some ways the Linux Foundation can be considered an open source project developing open mechanisms for collaboration.
+
+Key inputs The Linux Foundation provides include thought leadership, governance for collaboration, infrastructure, services, events, and training. 
+
+
+## Using open source software
+moja global has released its tools under an open source licence using state-of-the-art licensing and support systems. Now it is up to governments, organisations and companies to use the software. As stated in the previous Chapter, 98% of surveyed software uses open source components. There are good reasons for companies to use open source including quality and innovation. This Chapter elaborates on the advantages of using open source as well as on the reasons why sometimes open source is not used in particular by governments. A few risks are listed. Governments are establishing policies to ensure open source is getting equal treatment or even preference over other software. Finally, this Chapter will explain how interested governments can start using moja global tools like FLINT, as it requires more than only downloading the software. FLINT has to be combined with compatible Modules and data. Most Governments find it useful to ask for the help of a service provider to get started with using the FLINT.
+
+
+### Why use open source software?
+A large majority, 76 percent, of system administrators in large enterprises indicate they prefer to use open-source software whenever possible. The reason for using open source software has changed as the software and the management systems matured. Some perceptions persist (e.g. open source is cheaper) but in reality they have been overtaken by completely different reasons (e.g. easier to deploy). Below the current reasons for using open source software have been listed:
+
+Quality of the software: 
+The quality of the software is the most important reason for companies to use open source software when it is available. The most telling example is probably the decision of Microsoft some years ago to use Linux to run some of its own operations. The quality of the open source software is mainly a result from the pooling of resources from various companies who would otherwise be competing as well as the diversity of the contributors. Open source code management systems have also overtaken private systems as open source code has far fewer bugs at the time the code is accepted.
+
+
+Freedom from vendor lock-in:
+From the early years onwards, fear for vendor lock-in has been an important reason for using open source software. Still, vendor lock-in has been such a standard part of enterprise IT over the years that it often goes unnoticed and unquestioned. Cloud computing has pushed vendor lock-in back to the top of the agenda. To ensure that data centers are really a service that can be discontinued, portability of the system between data center vendors is crucial. Moreover, open source allows adjustments to the software when the selected technology stack is not 100% compatible. 
+
+
+Innovation, competitive features and technical capabilities:
+Speed of innovation is now a prime reason to adopt open source software. High speed innovation used to be reserved for the open source projects that reached a tipping point:   
+Open Source projects exhibit natural increasing returns to scale. That’s because most developers are interested in using and participating in the largest projects, and the projects with the most developers are more likely to quickly fix bugs, add features and work reliably across the largest number of platforms. Due to a better understanding of the open source environment, companies now organise for fast innovation by building a coalition of key players from the start. OpenStack and HyperLedger are projects that brought in the top industry players from the start and created an environment for innovation that could not be matched by proprietary software.
+
+Ability to customize and fix:
+Access to the source code obviously allows for changes made in house. These customizations allow companies to adjust software to their needs without going back to the vendor.
+
+Easy deployment and interoperability:
+Open source software has become more user friendly over the years. There is a steep increase in respondents that indicated that open-source software was easier to deploy. Interoperability also improved. With enterprise wide software integration, every company now has a technology stack that needs to communicate with every package. When some communication problems arise, it is possible that two vendors need to be in touch to resolve the issue. This can be very challenging. Open source software allows the company coders to find and resolve communication problems between software packages. 
+
+Cost benefit:
+This still is a consideration. Most companies understand that open source software is not free like in a free meal but free like in free speech. As explained below, they are committed to make a contribution through memberships as well as in-kind. But those contributions are still much more efficient than what is provided by proprietary software. So while not for free, open source offers a much better cost benefit compared to proprietary software.
+
+
+### Why do governments use open source software?
+There are few studies that have analysed the reasons why governments use (or do not use) open source software. Government awareness of the advantages of open source seems to be on the rise but the existing administrative procedures are not necessarily conducive for the adoption of open source solutions. This seems to be in line with the preliminary results from the small survey done in preparation of this paper. 
+
+Governments use open source for the same reasons as companies do but the emphasis might be slightly different. It seems that the cost-benefit balance for open source is still the main reason for selecting open source software, followed by better support from a community, no vendor lock-in, the ability to customise and transparency of the operation of the software. 
+
+For governments supporting the use of quality MRV systems, there are some specific advantages of using open source solutions;
+
+Collaboration instead of Competition: 
+Globally, the expertise available to develop advanced MRV systems is limited. There are not enough experts to develop and implement several competing tools. Meanwhile, countries are calling urgently for these tools so they can plan their interventions, access funding and reduce emissions. Open-source allows experts to collaborate on the same tool without having to bring them to the same organisations or company. Any improvements are available to everybody, which will speed up innovation. Feedback from users will increase the experience base that can drive improvements. Duplication of effort is reduced and the quality of solutions goes up due to the diversity of the background of the contributors.
+
+Reduced Donor Dependency: 
+Many countries are relying on donor funding to build their MRV systems. Donor funding is never certain and can be influenced by changes in government. In a project approach to MRV, the systems tend to collapse when the support from the donor government ends. In an open source environment, the software is maintained by many donor projects. When donors stop supporting a particular project, the user country can continue to use the software and receive updates as moja global runs on membership fees from several members. Spreading the contributions across many members makes funding less dependent on one donor.
+
+
+Reduce Capacity Needs:
+Donor countries have invested heavily in country readiness. Countries have acquired technical knowledge but they are struggling to translate this into coherent, operational MRV systems. Designing an AFOLU MRV system is complex and many pilots have generated ample lessons. Countries do not need to go through the same learning curve if they have access to these lessons learned and expert advice to avoid the same mistakes. Open source collaboration provides the platform through which such expertise can be accessed. Moreover, the software framework simplifies the design considerably while keeping the flexibility to adapt to the idiosyncrasies of each country or region. This frees up national capacity to work on data collection and policy development. 
+
+Transparent public-private collaboration
+Open source provides a transparent platform for public-private collaboration in the development of tools to support public policy needs. By making investments in open source software, governments and public institutions not only reduce cost because they can use existing building blocks of open source code, they also establish a level playing field for the benefits created by public investment. Moreover, releasing products under open source licences will attract additional investments from private players into the open source tool. The tools thus become a re-usable public good. A recent World Bank review established that its investment in an open source tool obtained a much greater return on investment than it would have otherwise.
+
+The illustration below indicates how the Government of India views the relationship between the different advantages of using open source software:
+
+![FOSS](assets/FOSS.png)
+
+
+### Why governments do NOT use open source software?
+Reports and interviews indicate that the main reasons why governments are not using open source software are related to a general lack of awareness of open source applications as well as the principles and licences governing the development and deployment of open source software. The use of and contribution to open source software is not always covered in government ICT strategies and policies  as explained below.  Other barriers to adoption include resistance to leaving proprietary software, vendor lock-in, limited technical competence and restrictive rules around the management of intellectual property. 
+
+Less commonly, government respondents mention the two key reasons indicated by organisations interviewed by BlackDuck - lack of support and poor documentation. Documentation is a priority for any organisation that manages open source projects, like moja global. Support can be provided on a peer-to-peer basis or on a commercial basis. Peer-to-peer would mean that the operator of the system in one country would provide support to the operators from other countries. As will be explained in the next sections, these exchanges are not entirely altruistic. For example, peer-to-peer assistance is an excellent way to deepen one’s understanding of the system.  But there are also commercial solutions: Companies or organisations who assist countries with the installation of the software, have a responsibility to provide the support and documentation to ensure countries can operate and maintain their system. 
+
+
+### Risks related to the use of open source software
+The risks of using open source are similar to proprietary software: downtime, security and maintenance. As explained above, many open source applications seem to have reached a level of maturity where they outperform the proprietary versions.
+
+The widespread use of open source modules to build new software has also created challenges specific to open source.The two main challenges are licence compliance and updating open source building blocks. Each challenge will be briefly reviewed below but it is important to emphasise that these challenges are not relevant for the users of the software like moja global’s FLINT. 
+
+Licence compliance:
+According to the Rogue Wave 2017 Open Source Support Report82, percent of code bases scanned by Rogue Wave have copyleft licenses. Use of such licenses requires organizations to provide access to the source code when the application is distributed. moja global is ensuring that it complies with the requirements of the licences of building blocks in its code base. This is not a concern for the organisations or countries using its software. Companies that want to build commercial solutions on top of the open source code base are welcome to do so but have to carefully review the existing licences in the FLINT code base. moja global is keeping a register of all open source components to facilitate this process.
+
+Updating open source building blocks
+As indicated above, applications are rarely developed from scratch. Almost all software is building on existing open source building blocks. It is important to keep track of the components in a system, not only for licence obligations as explained above, but also to update the components when important updates have been released or security has been improved. moja global maintains an accurate inventory of its open source components and tracks updates of these components. Again, this is not a concern for the users of the software.
+
+
+### Use Policies in various countries
+Governments are aware of the advantages of open source and have identified the lack of conducive regulation as priority to facilitate adoption. Many governments have now developed policies regulating the use of open source software. In December 2000, the European Commission defined a strategy concerning the internal use of open source software. Since then a significant increase in open-source policies has been observed globally. 
+
+Policies not only encourage the use of open source software, they also guarantee equal treatment in procurement. This means that open source solutions and proprietary solutions will be assessed on an equal basis, being both evaluated on the basis of total cost of ownership. Total cost of ownership covers a wide range of costs including installation, data migration, customization, operational costs, software maintenance, user licenses, training, user & admin support, downtime, upgrades, security and retirement costs. The shift to total cost of ownership is now overtaken in some countries by the awareness that the old way of acquiring software has to change from simply 'acquiring a product' to 'investing in innovation'.
