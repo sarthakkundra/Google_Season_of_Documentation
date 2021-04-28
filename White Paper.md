@@ -462,3 +462,42 @@ The Management board consists of three directors who are responsible for the coo
 
 The Linux Foundation:
 The Linux foundation is the legal umbrella for moja global and provides various services to the project. It also is a valuable intellectual resource for moja global. The Linux Foundation is a member based organisation, just like its projects (e.g. moja global). Members support The Linux Foundation financially because they appreciate the value it creates and are thus happy to share the costs. Some members of moja global do not need to become members of the Linux Foundation. Normally, members of a Project also become members of the overarching Linux Foundation to ensure that members abide by the Charter of the Linux Foundation. This can be complicated for government officials and members from international organisations. Hence for moja global, this requirement has been lifted. Of course anybody is welcome to become a member if they want to.
+
+
+## Sharing the cost of open source software
+Open source licences legally allow anybody to use the tools without paying. Previous Chapters explained that the value of open source tools is appreciated once they are used and users gain from making improvements to the open source project. It is only logical that those who make such contributions also get a say in how the project is managed. Most of these activities can be in-kind contributions but there is always a residue of contributions that need to be paid for. Open source projects have developed various ways to fairly distribute these costs across their users. The users of moja global tools (through the Strategy Board) are still exploring the fairest system to share the cost. 
+
+
+### Cost of an Open Source project 
+Open source software is free as in free speech not as in free lunch. While collaboration does reduce the total cost of ownership as explained below, there are costs and someone will have to pay the bill. 
+
+Most of the costs of an open source project are the same as those of proprietary software but these costs are often hidden as they are covered by contributions in-kind. These costs can include but are not limited to development time, development operations, documentation, testing and training materials. Some unavoidable costs like storage memory space to store the code so everybody can access it, can be available for free (e.g. GitHub provides free space for open source projects). 
+
+The project will incur some costs as experience has proven that hiring coders, documentation writers, etc. is necessary to ensure that no tasks are overlooked and even the most tedious tasks get done. Logistical tasks and overheads are often done by volunteers in the beginning but need dedicated resources as soon as the project starts to take off. The Linux Foundation is taking care of most management functions and charges 9% (or 6% > USD 1M) from the project budget to cover these costs. 
+
+Some costs are typical for an open source project. Public engagement is essential. An open source project is dependent on participation. So it is essential that the software is known by as many people as possible. Promotion through newsletters, presentations and participation in meetings is essential. Once contributors and members join, maintaining and serving this community and ecosystem is crucial. This is the most important task of an open source project. Finally, the open source way of working needs to be regulated and supported. For all these tasks, dedicated resources are necessary. How much resources will depend on the ecosystem. Some communities will provide support in-kind, others prefer to share the cost of these resources through membership fees or grants. 
+
+
+### Open budget with flexible contributions
+Some open source projects function completely on contributions in-kind and try to avoid financial transactions as they believe it undermines the community’s spirit and commitment. 
+
+Other projects have developed mechanisms to collect funds to allow them to share the cost of investments in key tasks that the community is reluctant to support. The value of the contributions in-kind in most projects remains at least a factor bigger than the financial contributions. 
+
+There are several methods of sharing the cost of an open source project. Some projects (like Wikipedia) allow for a voluntary contribution by users. Other projects use a membership system as it ensures that the cost of the project is shared fairly between different members of the community. 
+
+Fairness is the key to a successful contribution system but perceptions may differ between communities. Often membership fees are linked to a member specific indicator, e.g. revenue, number of staff, etc. Other projects use a tiered membership based on eagerness of the members to influence the project: the majority provide platinum, gold, or silver memberships with a board seat for every platinum member and one for every 5 gold members.
+
+
+### moja global budget options
+The moja global annual budget covers core investments to support and energiseenergises the community around moja global: i.e. the tiny contribution of coordination of the ecosystem is leveraging a vast in-kind investment from the ecosystem. The moja core activities cover:
+1. Support governance and development by organizing meetings and facilitating between members
+2. Maintain technical infrastructure
+3. Promote and demonstrate tools.
+
+As shown in the budget in Annex 4, a regular operating budget will be around USD 1 million. However, there is a need for flexibility both on the side of the budget and on the side of the ecosystems expectations. The ecosystem can propose to take on some of the tasks that are budgeted by making the input available as a contribution in-kind. Moreover, the activities have to adjust to the available funding. The activities are prioritized so the key tasks are covered by the available funds. Less important activities get covered as more funds are raised. There is however a minimum level of funds required to keep the organisation going. While there is no limit to what can be done if abundant funding is available, it is hard to maintain an ecosystem when the financial contributions drop below USD 400K.
+
+
+### moja global cost sharing system
+Annually, moja global’s Strategy Board agrees on its strategic plan combined with an overview of all the inputs needed to achieve the strategic plan. The Board members allocate in-kind and cash contributions to achieve the strategic plan. The Board is also using their own offices and ingenuity to raise money through other channels. The principles of fairness and reciprocity are guiding the systems used to share the operational costs.
+
+It is worth repeating that the cash budget is small compared to the investment that this budget leverages in terms of in-kind contributions. In an open-source project the cash budget enables contributors to make their in-kind investments of mostly more than 10 times the value of the cash cost sharing contributions. These in-kind contributions consist mainly of working hours of coders, writers and scientists who contribute to moja global tools. 
