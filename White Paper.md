@@ -501,3 +501,68 @@ As shown in the budget in Annex 4, a regular operating budget will be around USD
 Annually, moja global’s Strategy Board agrees on its strategic plan combined with an overview of all the inputs needed to achieve the strategic plan. The Board members allocate in-kind and cash contributions to achieve the strategic plan. The Board is also using their own offices and ingenuity to raise money through other channels. The principles of fairness and reciprocity are guiding the systems used to share the operational costs.
 
 It is worth repeating that the cash budget is small compared to the investment that this budget leverages in terms of in-kind contributions. In an open-source project the cash budget enables contributors to make their in-kind investments of mostly more than 10 times the value of the cash cost sharing contributions. These in-kind contributions consist mainly of working hours of coders, writers and scientists who contribute to moja global tools. 
+
+## Ownership and licensing of open source software
+moja global has released FLINT under the MPL 2.0 licence after careful consideration of all standard open source licences. This Chapter explains why MPL 2.0 was chosen: it is widely used, soft copy-left, accepted in most jurisdictions, it does not require the recognition of contributors, using or contributing does not mean endorsement of the tool and making a contribution does not result in liabilities. For a tool like FLINT, the MPL 2.0 licence is the perfect balance between allowing the software to be used and ensuring improvements are contributed back to the advantage of all users. 
+
+
+### IP Ownership in Open Source
+Every contributor owns and keeps the IP for the contribution made to an open source project but provides a licence to everybody allowing for the reuse, change and distribution of the contribution. The IP of any open source project is thus owned by a wide range of contributors. This is a strength because it makes it almost impossible to reverse the decision to keep the source code open. 
+
+It is essential that an open source project has an open source licence because the legal default in most countries is exclusive copyright, i.e. the contribution cannot be used or reproduced without explicit permission. The open source project agrees on the licence that all contributors will use. In practice, every contributor will agree to the project licence before any contribution is made. If each contribution would be made under a different licence, it would become impossible to reuse the code and respect various licence requirements. 
+
+The use of standard (i.e. well known) open source licences is highly recommended.  Using standard, well known open source licences is important so the contributors know what they agree to without contracting a lawyer. In addition, some licences are more permissive than others. This means that components released under a permissive licence can be used in a project released under a different licence without violating the licence agreement. The relations between different licences have been studied and published. So using a standard licence will allow contributors to use open source components released under a more permissive licence. The use of a standard licence cannot be emphasized enough. Some institutions and governments want to release their software under a specific licence or a tweaked standard licence. This will immediately reduce the usability of the software. It is better to compromise slightly on the terms of a licence than to adopt a non-standard licence.
+
+Some projects require a contributor agreement before a contribution is accepted. These agreements are often called a Contributor License Agreement (CLA). CLA requires the contributor to state that they have the right to make this contribution and release it under the terms of the project open source licence. This process ensures that the project can never be asked to reverse the code contribution and can not be held liable for violations of third party IP rights. 
+
+
+### Open Source Licence
+Even though only standard licences should be used, numerous open source licences have emerged. Each licence serves a particular interest. Some open source projects try to make it as easy as possible to use their software and do not require reciprocity. Others want to build a sharing community and will limit commercial use of the software. Various other considerations have resulted in a range of open source licences that each serve a particular constituency.
+
+The following criteria can be used to determine which open source licence is most appropriate for a particular project community:
+
+
+Widely Used:
+Widely used licences are preferred as they make reusing code easier without legal review. Contributors are probably familiar with the widely used licences and will not need to contact their lawyers before signing up to or making contributions to projects released on these licences. This speeds up contributions and reduces red-tape which motivates contributors. 
+
+
+Permissive And Copyleft:
+Permissive licences are ideal for software that serves as building blocks for other larger software. Copyleft ensures that improvements are contributed back to the open source project again. Often this software is closer to a final product so fitting into a different licence is less important. Licences can restrict the use of the software for commercial ends. This has important consequences for the ecosystem that develops around an open source software. 
+
+Strong And Weak Copyleft:
+Weak copyleft requires the user of the software to contribute changes to software back to the original project but files built around the open source component do not need to be shared. Strong copyleft requires all components of a software product to be made open source if it is built on top of a strong copyleft building block.
+
+Jurisdiction:
+A licence recognized in most jurisdictions is preferred. Some licences have been recognized in most countries which facilitates the adoption of the licence and contributions to the project.
+
+Patents:
+The patent clauses ensure that the licence covers both the use of contributions as well as the user of patented components of these contributions.
+
+
+Enhanced Attribution:
+Some licences require the explicit attribution of contributions to their owner. This can make reuse complicated. 
+
+The Privacy Loophole:
+In some instances users of the open source software may not be strictly distributing the code as they may be providing services (e.g. SaaS) that use the code or internally deploying the software. The licence needs to ensure that such use of the code results in improvements to the code being contributed back to the original project.
+
+No Promotion:
+Some free and open source software licences explicitly forbid the use of the authors’ names to promote a product or service based upon the authors’ code. 
+
+
+### Liabilities Related to Open Source
+Liabilities associated with using and contributing can be divided into downstream quality warranties and upstream intellectual property violations. 
+
+The MPL2.0 licence contains a disclaimer of warranty clause. This clause states that the software is provided on an “as is” basis, without warranty of any kind. The risk of using the software is with the user. If they want to have recourse for defects and faults, they can have the software installed through a commercial party in the ecosystem that is willing to provide a warranty. The contributors and the project are protected from claims when the software would have defects or inaccuracies by the clause in the MPL2.0 licence that limits the liability. This clause states that under no circumstances can a contributor be liable for damages caused by the software. 
+
+The upstream IP risks are mostly related to code that has been contributed under the licence of the project without the permission from the IP owner. The project holds contributors responsible for their contribution through the MPL2.0 licence clause on representation. This clause states that each contributor states that their contributions are their original creation or that they have the right to grant the rights given through the MPL2.0 licence to other users. To ensure that contributors are aware of this responsibility, the use of a Contributor License Agreement (CLA) further limits the risk that the project will be held responsible for infringements of upstream IP rights.
+
+
+### moja global Licence: MPL 2.0 
+Based on the criteria above, moja global has opted for the [Mozilla Public Licence 2.0](https://www.mozilla.org/en-US/MPL/2.0/) as the licence for its projects. 
+
+It is a weak copyleft to ensure that improvements are made available to all users. This is in line with moja global’s aim to have as many countries as possible use the same system for emissions estimates. MPL2.0 is compatible with most other licences so there are many open source components to build on.  
+
+MPL2.0 is a weak copyleft licence at file level which balances the advantages of both weak and strong copyleft. It ensures all users are contributing back to the project but it allows governments and companies to use the code for a wide range of uses including commercial applications. The MPL2.0 is very compatible with other licences: It allows the use of software produced under the popular GPL license and it allows those who want to use the code to release their code under the same licence or a licence that is more copyleft (like the GPL license.)
+
+MPL2.0 is recognized in many jurisdictions, is well known and its compatibility is well documented. The Mozilla licence is relatively new and is expected to gain in popularity and progressively become more accepted.
+
